@@ -1,0 +1,7 @@
+1. Extension에 live SASS compiler 검색 후 install
+2. css 폴더를 만든다
+3. main.scss 생성
+4. 위에 상단바의 검색창 클릭
+5. > 를 입력
+6. Live Sass : compile Sass : Without Watch Mode
+7. main.css.map 과 main.css 생성된다
